@@ -1,0 +1,5 @@
+services:
+  frontend:
+    image: registry.catgir.ls/catgir-ls/frontend:master
+    ports:
+      - 3002:80

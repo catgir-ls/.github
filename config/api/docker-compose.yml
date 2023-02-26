@@ -1,0 +1,10 @@
+services:
+  api:
+    image: registry.catgir.ls/catgir-ls/api:main
+    ports:
+      - 3000:3000
+    environment:
+      CONFIG: /config/config.toml
+    volumes:
+      - /root/apps/api/config.toml:/config/config.toml
+      - /root/apps/api/keys:/keys
