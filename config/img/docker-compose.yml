@@ -1,9 +1,0 @@
-services:
-  img:
-    image: registry.catgir.ls/catgir-ls/img:master
-    ports:
-      - 3001:3001
-    environment:
-      CONFIG: /config/config.toml
-    volumes:
-      - /root/apps/img/config.toml:/config/config.toml
