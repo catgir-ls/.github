@@ -7,6 +7,7 @@
 		</picture>
 		<br>
 		<a href="https://catgir.ls">catgir.ls</a> •
-		<a href="https://github.com/catgir-ls/.github/tree/main/config">configs</a>
+		<a href="https://github.com/catgir-ls/.github/tree/main/config">configs</a> •
+		<a href="https://github.com/catgir-ls/.github/blob/main/profile/PRIVACY.md">privacy</a>
 	</h3>
 </div>
